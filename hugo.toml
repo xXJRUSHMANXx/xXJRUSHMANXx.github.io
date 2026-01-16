@@ -1,0 +1,69 @@
+baseURL = 'https://xXJRUSHMANXx.github.io/'        # URL pública del teu portfolio
+languageCode = 'en-us'                              # Idioma base
+title = 'Alexanders Portfolio'                      # Títol global del lloc
+theme = 'PaperMod'                                  # Tema actiu
+
+# ─────────────────────────────────────────────────────────────
+# CONFIGURACIÓ PAPERMOD
+# ─────────────────────────────────────────────────────────────
+[params]
+  env = "production"                                # Entorn de producció
+  defaultTheme = "auto"                             # Tema fosc/clar automàtic
+  disableThemeToggle = false                        # Permet canviar tema
+  ShowShareButtons = false                          # Botons de compartir
+  ShowReadingTime = false                           # Temps estimat de lectura
+  ShowToc = false                                    # Taula de continguts
+  comments = false                                  # Comentaris desactivats
+  disableScrollToTop = false                        # Botó scroll to top
+  hideFooter = false                                # Peu de pàgina visible
+  disableAnchoredHeadings = false                   # Enllaços als títols
+
+  # ─────────────────────────────────────────────────────────────
+  # HOME PAGE
+  # ─────────────────────────────────────────────────────────────
+  disableHomepageContent = false                    # MOSTRAR `_index.md` a la Home
+
+  [params.homeInfoParams]                           # Bloc introductori opcional
+    Title = "Benvingut al meu Portfolio"
+    Content = "Explora els meus projectes, experiències i aplicacions reals d'enginyeria."
+
+# ─────────────────────────────────────────────────────────────
+# MENÚ DE NAVEGACIÓ
+# ─────────────────────────────────────────────────────────────
+[[menu.main]]
+  name = "Inici"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projectes"
+  url = "/projectes/"
+  weight = 2
+
+[[menu.main]]
+  name = "Sobre mi"
+  url = "/sobre/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contacte"
+  url = "/contacte/"
+  weight = 4
+
+# ─────────────────────────────────────────────────────────────
+# CONFIGURACIÓ DE LA SORTIDA
+# ─────────────────────────────────────────────────────────────
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ─────────────────────────────────────────────────────────────
+# CONFIGURACIÓ DE LA PÀGINA DE LLISTA
+# ─────────────────────────────────────────────────────────────
+[params.assets]
+  disableFingerprinting = false                     # Permet cache busting
+
+# ─────────────────────────────────────────────────────────────
+# CONFIGURACIÓ DE LA PÀGINA DE CONTACTE (si la crees)
+# ─────────────────────────────────────────────────────────────
+[params.contact]
+  enabled = false                                   # Pots activar-ho més endavant

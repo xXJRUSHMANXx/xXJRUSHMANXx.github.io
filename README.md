@@ -1,2 +1,0 @@
-# xXJRUSHMANXx.github.io
-PROJECTS PAGE
