@@ -5,7 +5,7 @@ showReadingTime = false
 showToc = false
 +++
 
-# Hola, sóc l’Alexander 👋
+# Hola, sóc l’Alexander 
 
 Soc un apassionat de l’enginyeria pràctica, la fabricació additiva i el disseny tècnic.  
 Aquest espai recull els meus projectes, aprenentatges i experiències reals treballant amb tecnologia, màquines i processos industrials.
