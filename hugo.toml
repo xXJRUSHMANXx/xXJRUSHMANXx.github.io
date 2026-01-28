@@ -21,11 +21,10 @@ theme = 'PaperMod'                                  # Tema actiu
   # ─────────────────────────────────────────────────────────────
   # HOME PAGE
   # ─────────────────────────────────────────────────────────────
-  disableHomepageContent = false                    # MOSTRAR `_index.md` a la Home
-
+  disableHomepageContent = true                    # Eso desactiva el "HOME_PAGE" automatico => por ahora lo tendre todo en manual en index
   [params.homeInfoParams]                           # Bloc introductori opcional
-    Title = "Benvingut al meu Portfolio"
-    Content = "Explora els meus projectes, experiències i aplicacions reals d'enginyeria."
+    #Title = "Benvingut al meu Portfolio"
+    #Content = "Explora els meus projectes, experiències i aplicacions reals d'enginyeria."
 
 # ─────────────────────────────────────────────────────────────
 # MENÚ DE NAVEGACIÓ
