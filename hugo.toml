@@ -36,7 +36,7 @@ theme = 'PaperMod'                                  # Tema actiu
 
 [[menu.main]]
   name = "PROJECTS"
-  url = "/project/"
+  url = "/projects/"
   weight = 2
 
 [[menu.main]]
