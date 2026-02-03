@@ -1,6 +1,6 @@
 +++
-title = "Projectes"
-description = "Explora els meus projectes d'enginyeria, energia, CAD i automatització."
+title = "Projects"
+description = "A selection of my engineering, CAD, energy and automation projects."
 +++
 
-Aquí trobaràs una selecció dels meus projectes més rellevants.
+Welcome to my projects section.

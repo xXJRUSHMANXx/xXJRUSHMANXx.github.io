@@ -1,12 +1,20 @@
 +++
+
 title = "Off-Grid Solar System"
+
 date = 2024-01-28
-summary = "From nothing, I did a complet system that could use cheap solar panels that could be sufficient for coocking using an electric pot"
+
+summary = "A complete off-grid solar installation built from scratch using low-cost panels."
+
 draft = false
 
 +++
 
-# Reparació i posada a punt d’una CNC
 
-Explicació detallada del projecte
+
+\# Off-Grid Solar System
+
+
+
+Detailed explanation of the project...
 
