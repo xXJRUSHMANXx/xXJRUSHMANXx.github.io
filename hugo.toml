@@ -24,8 +24,8 @@ theme = 'PaperMod'                                  # Tema actiu
   disableHomepageContent = true                    # Eso desactiva el "HOME_PAGE" automatico => por ahora lo tendre todo en manual en index
   [params.homeInfoParams]                           # Bloc introductori opcional
     #Title = "Benvingut al meu Portfolio"
-    #Content = "Explora els meus projectes, experiències i aplicacions reals d'enginyeria."
-# Forçat per activar workflow
+    #Content = "AAAExplora els meus projectes, experiències i aplicacions reals d'enginyeria."
+
 
 
 # ─────────────────────────────────────────────────────────────
