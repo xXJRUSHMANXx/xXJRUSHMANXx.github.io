@@ -8,4 +8,5 @@ draft = false
 
 # Reparació i posada a punt d’una CNC
 
-Explicació detallada del projecte...
+Explicació detallada del projecte
+
