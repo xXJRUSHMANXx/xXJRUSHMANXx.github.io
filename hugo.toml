@@ -25,6 +25,8 @@ theme = 'PaperMod'                                  # Tema actiu
   [params.homeInfoParams]                           # Bloc introductori opcional
     #Title = "Benvingut al meu Portfolio"
     #Content = "Explora els meus projectes, experiències i aplicacions reals d'enginyeria."
+# Forçat per activar workflow
+
 
 # ─────────────────────────────────────────────────────────────
 # MENÚ DE NAVEGACIÓ
