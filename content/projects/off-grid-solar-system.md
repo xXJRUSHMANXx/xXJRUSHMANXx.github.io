@@ -8,6 +8,8 @@ summary = "A complete off-grid solar installation built from scratch using low-c
 
 draft = false
 
+tags = \["Energy", "Solar", "Electronics"]
+
 +++
 
 
@@ -16,5 +18,27 @@ draft = false
 
 
 
-Detailed explanation of the project...
+A complete off-grid solar installation designed and built from scratch.
+
+
+
+\## Objectives
+
+\- Build a low-cost autonomous energy system
+
+\- Power an electric cooker and small appliances
+
+\- Learn about solar regulation, batteries and inverters
+
+
+
+\## Technical Details
+
+Explain panels, batteries, wiring, inverter, protections, etc.
+
+
+
+\## Results
+
+System performance, autonomy, improvements.
 

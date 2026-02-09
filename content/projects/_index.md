@@ -1,6 +1,20 @@
 +++
+
 title = "Projects"
-description = "A selection of my engineering, CAD, energy and automation projects."
+
+description = "A selection of engineering, energy, CAD and 3D printing projects."
+
 +++
 
-Welcome to my projects section.
+
+
+<!-- Capacitats principals de la secció PROJECTS -->
+
+\*\*Core Skills:\*\*  
+
+CAD · CAM · 3D Printing · Electronics · Renewable Energy · Automation · Prototyping
+
+
+
+Below you can explore some of my personal and technical projects.
+
