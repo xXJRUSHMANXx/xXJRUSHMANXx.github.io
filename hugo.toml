@@ -32,24 +32,34 @@ theme = 'PaperMod'                                  # Tema actiu
 # MENÚ DE NAVEGACIÓ
 # ─────────────────────────────────────────────────────────────
 [[menu.main]]
-  name = "Inici"
+  name = "Home"
   url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "PROJECTS"
+  name = "Projects"
   url = "/projects/"
   weight = 2
 
 [[menu.main]]
-  name = "Sobre mi"
-  url = "/sobre/"
+  name = "Work"
+  url = "/work/"
   weight = 3
 
 [[menu.main]]
-  name = "Contacte"
-  url = "/contacte/"
+  name = "Studies"
+  url = "/studies/"
   weight = 4
+
+[[menu.main]]
+  name = "About me"
+  url = "/about/"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
 
 # ─────────────────────────────────────────────────────────────
 # CONFIGURACIÓ DE LA SORTIDA
