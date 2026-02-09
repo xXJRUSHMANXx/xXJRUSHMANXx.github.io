@@ -2,7 +2,7 @@
 title = "Mechanical Engineering"
 date = 2018-01-01
 summary = "Bachelor's degree focused on mechanics, materials, thermodynamics and industrial design."
-draft = false
+draft = true
 tags = ["Engineering", "Mechanics", "Design"]
 +++
 

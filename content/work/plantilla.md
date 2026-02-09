@@ -2,7 +2,7 @@
 title = "ETM"
 date = 2024-01-01
 summary = "Industrial engineering role focused on automation, manufacturing and continuous improvement."
-draft = false
+draft = true
 tags = ["Automation", "Industry", "PLC", "Robotics"]
 +++
 

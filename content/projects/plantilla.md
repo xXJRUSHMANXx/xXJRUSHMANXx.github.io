@@ -6,7 +6,7 @@ date = 2026-01-01
 
 summary = "Short summary of the project."
 
-draft = false
+draft = true
 
 tags = \["CAD", "3D Printing", "Energy", "Electronics"]  # Etiquetes opcionals
 
