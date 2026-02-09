@@ -2,7 +2,7 @@
 
 title = "3Deseos - 3D Problem Solving"
 
-&nbsp;	
+
 
 date = 2022-01-01
 
