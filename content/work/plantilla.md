@@ -1,54 +1,28 @@
 +++
-
-title = "Project Title"
-
-date = 2026-01-01
-
-summary = "Short summary of the project."
-
+title = "ETM"
+date = 2024-01-01
+summary = "Industrial engineering role focused on automation, manufacturing and continuous improvement."
 draft = false
-
-tags = \["CAD", "3D Printing", "Energy", "Electronics"]  # Etiquetes opcionals
-
+tags = ["Automation", "Industry", "PLC", "Robotics"]
 +++
 
-
-
-\# Project Title
-
-
+# ETM – Industrial Engineering Role
 
 <!-- Introducció -->
+Short introduction about the company and your role.
 
-A brief introduction explaining the purpose and context of the project.
+## Responsibilities
+- Responsibility 1
+- Responsibility 2
+- Responsibility 3
 
+## Key Skills Applied
+- Automation
+- PLC Programming
+- Robotics
+- Lean Manufacturing
 
-
-\## Objectives
-
-\- Objective 1
-
-\- Objective 2
-
-\- Objective 3
-
-
-
-\## Technical Details
-
-Explain the technical aspects:  
-
-CAD, electronics, energy system, automation, materials, etc.
-
-
-
-\## Results
-
-Describe what you achieved, performance, improvements, etc.
-
-
-
-\## Gallery (optional)
-
-You can add images here if you want.
-
+## Achievements
+- Achievement 1
+- Achievement 2
+- Achievement 3
