@@ -2,8 +2,6 @@
 
 title = "3Deseos - 3D Problem Solving"
 
-
-
 date = 2022-01-01
 
 summary = "Solving real problems using 3D printing and rapid prototyping."
