@@ -14,7 +14,7 @@ tags = \["3D Printing", "CAD", "Prototyping"]
 
 
 
-\# 3Deseos – 3D Problem Solving
+\# 3Deseos - 3D Problem Solving
 
 
 
