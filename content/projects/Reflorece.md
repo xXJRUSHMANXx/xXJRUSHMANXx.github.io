@@ -8,13 +8,13 @@ summary = "Design and production of custom 3D printed pots for plants."
 
 draft = false
 
-tags = \["3D Printing", "Design", "Entrepreneurship"]
+tags = ["3D Printing", "Design", "Entrepreneurship"]
 
 +++
 
 
 
-\# Reflorece – Custom 3D Printed Pots
+# Reflorece – Custom 3D Printed Pots
 
 
 

@@ -8,13 +8,13 @@ summary = "Short summary of the project."
 
 draft = true
 
-tags = \["CAD", "3D Printing", "Energy", "Electronics"]  # Etiquetes opcionals
+tags = ["CAD", "3D Printing", "Energy", "Electronics"]  # Etiquetes opcionals
 
 +++
 
 
 
-\# Project Title
+# Project Title
 
 
 
@@ -36,7 +36,7 @@ A brief introduction explaining the purpose and context of the project.
 
 \## Technical Details
 
-Explain the technical aspects:  
+Explain the technical aspects:
 
 CAD, electronics, energy system, automation, materials, etc.
 

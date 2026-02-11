@@ -8,13 +8,13 @@ summary = "A more powerful off-grid system combining wind and solar energy."
 
 draft = false
 
-tags = \["Energy", "Wind", "Solar", "Hybrid"]
+tags = ["Energy", "Wind", "Solar", "Hybrid"]
 
 +++
 
 
 
-\# Hybrid Wind + Solar System
+# Hybrid Wind + Solar System
 
 
 

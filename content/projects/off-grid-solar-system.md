@@ -8,13 +8,13 @@ summary = "A complete off-grid solar installation built from scratch using low-c
 
 draft = false
 
-tags = \["Energy", "Solar", "Electronics"]
+tags = ["Energy", "Solar", "Electronics"]
 
 +++
 
 
 
-\# Off-Grid Solar System
+# Off-Grid Solar System
 
 
 
