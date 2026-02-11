@@ -19,11 +19,20 @@ Below is an overview of the subjects I teach, along with a brief description of 
 
 ---
 
-## 0) Workshop (Taller)
+## 0) Workshop
 
-*A detailed list of workshop activities will be added once the Excel content is integrated.*
+The workshop is where I carry out the most hands‑on part of my work, dealing daily with **three‑phase industrial machines** and their power and control systems. My main responsibility is to ensure that all machines used by the students operate safely and reliably, solving real issues that appear due to their intensive use.
 
-This module focuses on practical skills in the workshop environment, including the safe use of tools, basic machining operations, measurement techniques, prototyping, and the application of mechanical principles in real components.
+A large part of my work focuses on **three‑phase power supply**, verifying the correct connection of the three phases, checking protections, ensuring continuity, and confirming that power circuits behave as expected. I also work on the **control logic**, diagnosing and manipulating **contactors, relays, push buttons, limit switches, fuses, and start/stop systems**, both manual and automatic.
+
+A significant portion of my role involves **fault detection and troubleshooting**. Many issues are caused by worn cables, loose terminals, damaged connectors, or incorrect manipulation by students. These situations have allowed me to develop strong skills in:
+
+- Electrical and mechanical diagnostics
+- Reading and interpreting industrial schematics
+- Verifying power and control circuits
+- Performing quick, safe and effective repairs
+
+This experience has given me a very realistic understanding of industrial maintenance and machine behaviour in an educational environment, where student errors create a wide variety of real‑world problems. It has taught me to work with precision, safety and efficiency, while also guiding students in good practices and proper diagnostic methods.
 
 ---
 
