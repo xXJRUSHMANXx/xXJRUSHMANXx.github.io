@@ -15,6 +15,7 @@ theme = 'PaperMod'                                  # Tema actiu
   ShowFooterSocial = true
   ShowSocialIcons = true                              # Icones socials al peu de pàgina
   ShowToc = false                                    # Taula de continguts
+  ShowFooter = true                                   # Peu de pàgina
   comments = false                                  # Comentaris desactivats
   disableScrollToTop = false                        # Botó scroll to top
   hideFooter = false                                # Peu de pàgina visible
@@ -22,16 +23,16 @@ theme = 'PaperMod'                                  # Tema actiu
  #PEU, Contacte amb idones socials
 
   [[params.socialIcons]]
-    name = "email"
-    url = "mailto:alex.sakhnov.05@gmail.com"
+  name = "email"
+  url = "mailto:alex.sakhnov.05@gmail.com"
 
   [[params.socialIcons]]
-    name = "phone"
-    url = "tel:+34622230893"
+  name = "phone"
+  url = "tel:+34622230893"
 
   [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/EL-TEU-LINK"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/EL-TEU-LINK"
 
 
   # ─────────────────────────────────────────────────────────────
