@@ -1,23 +1,24 @@
 <footer class="footer">
 
-  {{- if .Site.Params.ShowFooterSocial }}
+  {{ if .Site.Params.ShowFooterSocial }}
   <div class="footer-social">
 
-    {{- range .Site.Params.socialIcons }}
+    {{ range .Site.Params.socialIcons }}
     <a href="{{ .url }}" class="footer-item" target="_blank" rel="noopener noreferrer">
 
-      <!-- ICONES -->
-      {{- if eq .name "email" }}
+      {{ if eq .name "email" }}
+      <!-- Email Icon -->
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
         <path d="M4 4h16v16H4V4zm8 7L4 6v12h16V6l-8 5z" stroke="currentColor" stroke-width="1.5"/>
       </svg>
       <span>alex.sakhnov.05@gmail.com</span>
 
-      {{- else if eq .name "phone" }}
+      {{ else if eq .name "phone" }}
+      <!-- Phone Icon -->
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
         <path d="M6.6 10.8c1.2 2.4 3.2 4.4 5.6 5.6l2-2c.3-.3.8-.4 1.2-.3 1 .3 2 .5 3 .5.7 0 1.2.5 1.2 1.2v3c0 .7-.5 1.2-1.2 1.2C10.4 20 4 13.6 4 5.2 4 4.5 4.5 4 5.2 4h3c.7 0 1.2.5 1.2 1.2 0 1 .2 2 .5 3 .1.4 0 .9-.3 1.2l-2 2z" stroke="currentColor" stroke-width="1.5"/>
       </svg>
       <span>+34 622 23 08 93</span>
 
-      {{- else if eq .name "linkedin" }}
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+      {{ else if eq .name "linkedin" }}
+      <!-- LinkedIn Icon -->
