@@ -23,16 +23,16 @@ theme = 'PaperMod'                                  # Tema actiu
  #PEU, Contacte amb idones socials
 
   [[params.socialIcons]]
-  name = "email"
-  url = "mailto:alex.sakhnov.05@gmail.com"
+    name = "email"
+    url = "mailto:alex.sakhnov.05@gmail.com"
 
   [[params.socialIcons]]
-  name = "phone"
-  url = "tel:+34622230893"
+    name = "phone"
+    url = "tel:+34622230893"
 
   [[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/EL-TEU-LINK"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/EL-TEU-LINK"
 
 
   # ─────────────────────────────────────────────────────────────
