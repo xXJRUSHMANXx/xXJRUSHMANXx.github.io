@@ -1,0 +1,35 @@
+<footer class="footer">
+  {{- if .Site.Params.ShowFooterSocial }}
+  <div class="footer-content">
+    <div class="social-icons">
+      {{- range .Site.Params.socialIcons }}
+      <a href="{{ .url }}" title="{{ .name }}" rel="noopener noreferrer">
+        {{ .name }}
+      </a>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+  <span>&copy; {{ now.Year }} {{ .Site.Title }}</span>
+</footer>
+
+<style>
+  .footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+  }
+
+  .social-icons {
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+
+  .social-icons a {
+    text-decoration: none;
+    color: inherit;
+  }
+</style>
