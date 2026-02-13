@@ -7,13 +7,16 @@
     <a href="{{ .url }}" class="footer-item" target="_blank" rel="noopener noreferrer">
 
       {{ if eq .name "email" }}
-      <span>📧 alex.sakhnov.05@gmail.com</span>
+      <span class="icon">📧</span>
+      <span class="text">alex.sakhnov.05@gmail.com</span>
 
       {{ else if eq .name "phone" }}
-      <span>📞 +34 622 23 08 93</span>
+      <span class="icon">📞</span>
+      <span class="text">+34 622 23 08 93</span>
 
       {{ else if eq .name "linkedin" }}
-      <span>🔗 LinkedIn</span>
+      <span class="icon">🔗</span>
+      <span class="text">LinkedIn</span>
 
       {{ end }}
 
@@ -28,3 +31,41 @@
   </div>
 
 </footer>
+
+<style>
+  .footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    border-top: 1px solid var(--border);
+    margin-top: 4rem;
+    color: var(--primary);
+  }
+
+  .footer-social {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+    align-items: center;
+  }
+
+  .footer-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: inherit;
+    text-decoration: none !important;
+    font-size: 0.95rem;
+    transition: 0.2s ease;
+  }
+
+  .footer-item:hover {
+    color: var(--link-hover);
+  }
+
+  .footer-copy {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+  }
+</style>
