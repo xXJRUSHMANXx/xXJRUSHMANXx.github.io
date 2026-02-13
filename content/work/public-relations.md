@@ -6,7 +6,6 @@ draft = false
 tags = ["Communication", "Customer Service", "Public Relations", "Languages"]
 +++
 
-# Public Relations & Customer Interaction
 
 Alongside my engineering background, I have gained valuable experience working directly with people in multicultural and high‑demand environments. These roles strengthened my communication skills, adaptability and problem‑solving abilities — qualities that complement my technical profile and help me work effectively in teams and customer‑facing situations.
 

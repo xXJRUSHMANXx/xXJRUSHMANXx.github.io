@@ -6,7 +6,7 @@ draft = false
 tags = ["AI", "Deep Learning", "Machine Learning", "NLP", "Computer Vision"]
 +++
 
-# Artificial Intelligence with Deep Learning
+
 **UPC School – Universitat Politècnica de Catalunya**
 **Final weighted grade: 9.3 / 10**
 

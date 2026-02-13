@@ -14,7 +14,6 @@ tags = ["Energy", "Solar", "Electronics"]
 
 
 
-# Off-Grid Solar System
 
 
 

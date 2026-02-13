@@ -6,7 +6,7 @@ draft = false
 tags = ["Engineering", "Mechanics", "Design", "Thermodynamics", "Materials"]
 +++
 
-# Mechanical Engineering
+
 **Universitat Politècnica de Catalunya – EEBE**
 **Final grade: 7.306 / 10**
 

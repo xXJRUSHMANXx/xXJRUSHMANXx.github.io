@@ -6,7 +6,7 @@ draft = false
 tags = ["Electronics", "Automation", "Control", "Robotics", "Power Electronics"]
 +++
 
-# Industrial Electronics & Automatic Control Engineering
+
 **Universitat Politècnica de Catalunya – EEBE**
 **Final grade: 7.011 / 10**
 

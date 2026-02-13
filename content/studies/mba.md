@@ -6,7 +6,7 @@ draft = false
 tags = ["MBA", "Management", "Leadership", "Strategy", "Innovation"]
 +++
 
-# MBA for Technology & Industrial Companies
+
 **UPC School – Universitat Politècnica de Catalunya**
 **Final weighted grade: 7.7 / 10**
 

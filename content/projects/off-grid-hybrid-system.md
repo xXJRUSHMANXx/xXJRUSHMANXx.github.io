@@ -14,7 +14,7 @@ tags = ["Energy", "Wind", "Solar", "Hybrid"]
 
 
 
-# Hybrid Wind + Solar System
+
 
 
 

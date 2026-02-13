@@ -6,6 +6,6 @@ draft = false
 tags = ["3D Printing", "CAD", "Prototyping"]
 +++
 
-# 3Deseos, 3D Problem Solving
+
 
 Description of the service and examples.

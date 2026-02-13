@@ -6,7 +6,7 @@ draft = false
 tags = ["Teaching", "Industry", "Manufacturing", "CAD", "Automation"]
 +++
 
-# ETM – Technical Instructor (2025–2026)
+# Course 2025–2026
 
 Since 2025 I have been working as a **Technical Instructor** at EMT Granollers, teaching subjects related to mechanical design, manufacturing processes, industrial systems and product development.
 My role combines **technical expertise**, **project‑based learning**, and **hands‑on workshop guidance**, helping students understand how engineering concepts translate into real industrial applications.
