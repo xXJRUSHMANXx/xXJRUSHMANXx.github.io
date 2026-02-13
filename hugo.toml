@@ -12,6 +12,7 @@ theme = 'PaperMod'                                  # Tema actiu
   disableThemeToggle = false                        # Permet canviar tema
   ShowShareButtons = false                          # Botons de compartir
   ShowReadingTime = false                           # Temps estimat de lectura
+  ShowFooterSocial = true
   ShowToc = false                                    # Taula de continguts
   comments = false                                  # Comentaris desactivats
   disableScrollToTop = false                        # Botó scroll to top
