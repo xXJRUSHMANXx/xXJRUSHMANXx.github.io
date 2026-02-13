@@ -1,7 +1,11 @@
 +++
-title = "Studies"
-description = "Academic background including engineering, business and artificial intelligence."
+title = "Project Title"
+date = 2025-01-01
+summary = "Short description of the project."
+draft = true
+tags = ["Tag1", "Tag2"]
 +++
+
 
 
 
