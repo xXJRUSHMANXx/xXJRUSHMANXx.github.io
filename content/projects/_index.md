@@ -1,16 +1,15 @@
 +++
+title = "Projects"
+summary = ""
+[ _build ]
+  list = true
+  render = true
 
-title: "Projects"
-summary: ""
-_build:
-  list: true
-  render: true
-cascade:
-  _build:
-    list: never
-
-
+[ cascade._build ]
+  list = false
+  render = true
 +++
+
 
 
 
