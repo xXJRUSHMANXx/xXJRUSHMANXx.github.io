@@ -1,15 +1,6 @@
 +++
-
-title = "Project Title"
-
-date = 2026-01-01
-
-summary = "Short summary of the project."
-
-draft = true
-
-tags = ["CAD", "3D Printing", "Energy", "Electronics"]  # Etiquetes opcionals
-
+title = "Studies"
+description = "Academic background including engineering, business and artificial intelligence."
 +++
 
 
