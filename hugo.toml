@@ -93,4 +93,10 @@ theme = 'PaperMod'                                  # Tema actiu
 # CONFIGURACIÓ DE LA PÀGINA DE CONTACTE (si la crees)
 # ─────────────────────────────────────────────────────────────
 [params.contact]
-  enabled = false                                   # Pots activar-ho més endavant
+  enabled = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+                                # Pots activar-ho més endavant
