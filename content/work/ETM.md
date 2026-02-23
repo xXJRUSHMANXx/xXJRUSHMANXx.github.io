@@ -25,7 +25,8 @@ The workshop is where I carry out the most hands‑on part of my work, dealing d
 
 A large part of my work focuses on **three‑phase power supply**, verifying the correct connection of the three phases, checking protections, ensuring continuity, and confirming that power circuits behave as expected. I also work on the **control logic**, diagnosing and manipulating **contactors, relays, push buttons, limit switches, fuses, and start/stop systems**, both manual and automatic.
 
-![ETM schematic](/IMGs/ETM/IMG_1.png)
+<img src="/IMGs/ETM/IMG_1.png" alt="ETM schematic" style="width:50%; display:block; margin:auto;">
+
 
 
 
