@@ -2,6 +2,8 @@ baseURL = 'https://xXJRUSHMANXx.github.io/'        # URL pública del teu portfo
 languageCode = 'en-us'                              # Idioma base
 title = 'Alexanders Portfolio'                      # Títol global del lloc
 theme = 'PaperMod'                                  # Tema actiu
+[author]
+  name = "Alexandre Sakhnov"
 
 # ─────────────────────────────────────────────────────────────
 # CONFIGURACIÓ PAPERMOD
