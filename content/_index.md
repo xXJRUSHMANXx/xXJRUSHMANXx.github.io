@@ -1,6 +1,6 @@
 +++
 title = "Alexander Sakhnov"
-description = "Mechanical & Electronic Engineer | Additive Manufacturing | CAD | AI"
+description =  "Additive Manufacturing | CAD | AI"
 _build = { list = false }
 layout = "single"
 
