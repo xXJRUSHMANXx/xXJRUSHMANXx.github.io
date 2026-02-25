@@ -22,20 +22,19 @@ I enjoy designing, prototyping and improving systems that connect the digital an
 - Passionate about engineering, innovation and hands‑on creation
 - Strong interest in additive manufacturing, industrial automation and AI
 - Creative, resolutive, responsible and always eager to learn
-- Driver’s license (B) and full availability
-
+- Driver’s license (B) with own car
 ---
 
 ## Academic Background
 
-- **Double Degree in Mechanical Engineering + Electronic & Industrial Automation Engineering**
+- **Degree in Mechanical Engineering Electronic**
   Universitat Politècnica de Catalunya (UPC – EEBE)
-
+ **Degree in Industrial Automation Engineering**
+  Universitat Politècnica de Catalunya (UPC – EEBE)
 - **Postgraduate in Artificial Intelligence: Machine & Deep Learning**
-  Universitat Politècnica de Catalunya
-
+  Universitat Politècnica de Catalunya (UPC – school)
 - **MBA – Technology & Industrial Management**
-  Universitat Politècnica de Catalunya
+  Universitat Politècnica de Catalunya (UPC – school)
 
 - Additional training in physics, English immersion programs and technical workshops.
 
