@@ -22,6 +22,9 @@ theme = 'PaperMod'                                  # Tema actiu
   disableScrollToTop = false                        # Botó scroll to top
   hideFooter = false                                # Peu de pàgina visible
   disableAnchoredHeadings = false                   # Enllaços als títols
+  disableHomeProjects = true
+  disableHomePosts = true
+
  #PEU, Contacte amb idones socials
 
   [[params.socialIcons]]
