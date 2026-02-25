@@ -1,12 +1,9 @@
 +++
 title = "Alexander Sakhnov"
-description =  "Additive Manufacturing | CAD | AI"
-_build = { list = false }
 layout = "single"
 
 +++
 
-# Alexander Sakhnov
 **Mechanical & Electronic Engineer**
 
 I am an engineer driven by curiosity, creativity and a strong desire to build real, functional solutions.
