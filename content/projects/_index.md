@@ -2,8 +2,7 @@
 title = "Projects"
 summary = "A curated selection of engineering, energy and 3D design projects."
 description = "Here you can explore a variety of technical projects ranging from renewable energy systems to 3D printing and rapid prototyping."
-type = "projects"
-_build = { list = false }           # que no surtin projectes en HOME
+#type = "projects"
 +++
 
 
