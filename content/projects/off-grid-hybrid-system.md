@@ -1,183 +1,264 @@
 +++
 title = "Off-Grid Hybrid System – Wind + Solar (Experimental and High-Power)"
 date = 2026-02-01
-summary = "Two-block hybrid energy solution for a remote house: an experimental wind+solar unit and a high-power 48 V hybrid solar system."
-description = "Design, evolution and justification of an off-grid hybrid installation sited in a high, remote house inside a natural park. Includes an experimental wind+solar block and a scalable high-power solar hybrid block with wiring, protection and battery architecture."
+summary = "A two-block hybrid energy system combining experimental wind+solar generation with a high-power 48V hybrid solar architecture."
+description = "A complete off-grid hybrid installation designed for a remote house with unstable grid supply. Includes an experimental wind+solar block and a fully engineered high-power hybrid solar system with detailed justification, wiring, protection and component selection."
 tags = ["Hybrid Energy", "Wind", "Solar", "LiFePO4", "MPPT", "Off-Grid", "System Design"]
 type = "projects"
 +++
 
-# Off-Grid Hybrid System — Wind + Solar (Experimental and High-Power)
+# Off-Grid Hybrid System – Wind + Solar (Experimental and High-Power)
 
-A remote house located at a high point inside a natural park suffers from **unstable grid supply** and frequent maintenance outages. The system objective is twofold: guarantee **continuous basic lighting and essential services** at any hour, and **secure constant loads** (for example, a refrigerator) against grid interruptions. The solution is split into two coordinated blocks:
+This project was developed for a house located at the highest point of a natural park, where the grid supply is extremely unstable. Power cuts are frequent, voltage fluctuates depending on the park’s overall demand, and even basic appliances such as a microwave cannot be used reliably.
 
-- **Block 1 — Experimental low-power wind + solar**: validate wind generation potential and controller behaviour.
-- **Block 2 — High-power hybrid solar**: robust, scalable system to supply major loads and support air conditioning and heavy appliances.
+The objective was clear:
 
-Both blocks follow the same operational philosophy: staged upgrades, controller intelligence, correct protection and a strong emphasis on battery health and safety.
+- **Guarantee uninterrupted lighting and essential services**, regardless of the time of day.
+- **Protect constant loads**, especially the refrigerator, from grid outages.
+- **Create a scalable hybrid system** capable of supporting heavier loads such as air conditioning.
 
----
+To achieve this, the installation was divided into two coordinated blocks:
 
-## Site context and design drivers
-
-The house sits on a high ridge with sea exposure. Grid power arrives but is **unstable** and subject to scheduled cuts. Park regulations and the remote location impose constraints on heavy civil works and turbine siting. Design drivers:
-
-- **Continuity** — lighting and essential services must remain available at all times.
-- **Reliability** — refrigerator and other constant loads must be protected from deep discharge and grid interruptions.
-- **Scalability** — start with low-cost experiments, then scale to a production-grade hybrid system.
-- **Safety** — MPPT controllers, BMS, correct fusing and earthing are mandatory.
+1. **Experimental low-power wind + solar system**
+2. **High-power hybrid solar system (final production system)**
 
 ---
 
-## Block 1 — Experimental Wind + Solar (low power)
+# 1) Experimental Wind + Solar System (Low Power)
 
-### Purpose
+## Purpose
 
-Create a low-cost experimental setup to measure real wind energy potential, test a certified MPPT wind controller with a dump (dumb) load, and observe interactions with aged solar panels and a reused LiFePO₄ battery. The block powers **12–14 V LED lighting** and provides operational data to inform larger investments.
+The first block was designed as an **experimental platform** to evaluate:
 
-### Components and topology
+- Real wind generation potential at the site
+- Behaviour of a certified MPPT wind controller
+- Interaction between wind and solar inputs
+- Performance of reused panels and a degraded LiFePO₄ battery
 
-- **Wind turbine** — low-cost model rated 800 W (supplier claim).
-- **Hybrid MPPT wind/solar controller** — certified MPPT with electronic protections and a **dumb-load** output to safely dissipate excess energy when batteries are full. Controller supports up to **1000 W solar** input.
-- **Reused flexible solar panels** — limited to ~100 W effective per panel due to age.
-- **Reused LiFePO₄ battery** — degraded capacity; used to isolate wind contribution.
-- **12–14 V LED lighting** as primary load.
-- **Monitoring** — voltage, current and state-of-charge logging recommended.
-
-### Expected behaviour and justification
-
-- **Wind at night, solar by day**: elevated site with sea exposure typically yields more wind at night; combining both sources increases overall availability.
-- **Realistic output**: despite an 800 W rating, measured wind power is expected to average **tens of watts** (practical ~50 W) at this site; the experiment quantifies actual yield.
-- **Why MPPT + dump load**: diode-rectifier controllers lack active protection and can allow turbine overspeed or battery overcharge. An MPPT with dump load protects turbine and battery and enables controlled operation under high wind and full battery conditions.
-
-### Limitations and safety
-
-- Reused panels and battery intentionally limit contribution so wind performance can be isolated.
-- Dump load must be sized to absorb peak turbine power safely.
-- Implement basic surge protection and earthing due to exposed location.
+This block powers **12–14 V LED lighting**, ensuring basic illumination even during grid outages.
 
 ---
 
-## Block 2 — High-Power Hybrid Solar (production system)
+## Components and Rationale
 
-Block 2 is the production-grade system designed to supply major household loads. The design evolved from a 12 V prototype to a 24 V intermediate and finally to a 48 V architecture to meet multi-kW demands efficiently.
+### **Wind Turbine (800 W nominal)**
+A low-cost 800 W turbine was selected due to the house’s elevated position and direct sea exposure.
+However, real-world expectations are modest: **~50 W average** is far more realistic than the advertised 800 W.
 
----
+### **Certified MPPT Wind/Solar Controller**
+Most low-cost turbines include a simple diode rectifier with no safety logic.
+Instead, a **certified MPPT controller** was chosen because it provides:
 
-### 2.1 Stage A — 24 V intermediate design (lessons from 12 V)
+- Electronic protections
+- Higher efficiency
+- A **dumb-load output** to dissipate excess energy during strong winds
+- Support for **up to 1000 W of solar input**
 
-**Problem with 12 V:** high DC currents (~70 A) required heavy, expensive cabling and large voltage drops. Moving to 24 V reduces current for the same power and lowers conductor costs.
+This ensures safe operation even when the battery is full and wind speeds are high.
 
-**PV array and electrical layout (24 V stage)**
+### **Reused Solar Panels**
+Old flexible panels from a previous project were reused.
+Due to age and degradation, they produce **~100 W or less**, but this is acceptable for experimental purposes.
 
-- **PV modules:** 16 × 100 W flexible panels arranged **4S4P** (4 in series × 4 parallel strings).
-  - Array nominal: **Vmax ≈ 100.28 V**, **Imax ≈ 29.15 A**.
-  - Each string delivers up to **~6 A** under typical conditions.
-- **Cabling & protection:**
-  - **12 AWG** for string runs (rated ~55 A).
-  - **10 A fuse** on each positive string.
-  - **4-pole switch** (40 A / 690 V) for series positives.
-  - Strings combined on a **terminal block** rated 80 A / 690 V, consolidated to **10 AWG** main feed (~70 A).
-- **MPPT:** Victron Energy 150/60. MPPT output uses **6 AWG** cable (~132 A) with **MEGA fuse 80 A**.
-- **Battery bank:** 2 × LiFePO₄ 12 V 300 Ah in series → **24 V, 300 Ah**. Battery-to-inverter feed uses **2 AWG** (~218 A) with **MEGA fuse 200 A**.
-- **Inverter:** EDECOA pure sine 3500 W (nominal ~145 A at 24 V; possible short peaks up to 300 A).
-
-**Tradeoffs**
-
-- 24 V reduces currents vs 12 V but still requires heavy cabling for multi-kW loads. Proper fusing and conductor sizing are essential to avoid overheating and voltage drop.
+### **Reused LiFePO₄ Battery**
+The battery is also reused and degraded.
+This is intentional: the goal is to measure **true wind contribution**, not to build a high-performance system.
 
 ---
 
-### 2.2 Stage B — 48 V conversion and high-power hybrid
+## Why This Block Exists
 
-**Trigger:** demand increased to run two AC units (≈3000 and ≈5000 frigorías). Battery continuous discharge limits at lower voltages made 48 V necessary. Using \(P = V \cdot I\), higher voltage reduces current for the same power and enables reliable multi-kW delivery.
+This system is **not** meant to power the house.
+It is a **test bench** to understand:
 
-**New architecture (48 V final stage)**
+- How much wind energy the site can realistically produce
+- Whether a larger turbine is justified
+- How the MPPT controller behaves under mixed wind/solar input
+- How the dump load manages overspeed conditions
 
-- **PV modules:** 6 × JA Solar 600 W N-type bifacial (JAM72D40-MB) arranged **3S2P**.
-  - Per module: \(V_{mp} \approx 52.79\) V, \(I_{sc} \approx 14.04\) A.
-  - Array worst-case: ~6392 W (3S2P → ~35.1 A at ~182 V).
-- **Hybrid inverter:** EDECOA EG-624B (selected for hybrid operation and automatic transfer between grid and solar).
-- **Battery bank:** 4 × LiFePO₄ 400 Ah configured to achieve **48 V** (arrangement to meet capacity and discharge requirements).
-- **Protection & cabling:**
-  - **15 A fuse** per PV string.
-  - 4-pole 40 A / 690 V switch for series switching.
-  - Inverter input fuse sized with safety multipliers (example: battery fuse ≈ \(I_{max} \cdot 1.25\)).
-  - DC cabling sized to 48 V operation to reduce current and losses.
-
-**Why 48 V**
-
-- Reduces DC current for the same power, lowering conductor cross-section and I²R losses.
-- Enables continuous multi-kW delivery without exceeding battery or conductor limits.
-- Hybrid inverter supports automatic transfer and grid interaction.
+It also provides **always-on LED lighting**, independent from the main system.
 
 ---
 
-## Wiring, fusing and protection strategy (concise rules)
+# 2) High-Power Hybrid Solar System (Production System)
 
-- **String fuses** protect PV strings from reverse currents and short circuits. Size fuses to protect conductors, not to limit normal current.
-- **MPPT output fuse** protects MPPT-to-battery cabling. Use MEGA fuses for high-current DC runs.
-- **Battery fuses** protect against short circuits; BMS manages normal current limits and cell safety.
-- **Switches and terminal blocks** must be rated above expected peak currents and system voltage (e.g., 690 V rating for PV-side switches).
-- **Earthing and surge protection** are mandatory in exposed elevated sites.
-- **Relay control**: use MPPT relay outputs to control inverter ON/OFF to prevent deep discharge (as implemented previously).
+The second block is the **real power system** for the house.
+It evolved through several stages: 12 V → 24 V → 48 V → and finally a **fully redesigned hybrid system** based on high-efficiency panels and a premium hybrid inverter.
 
 ---
 
-## Battery, BMS and operational safety
+# 2.1 Stage A — 24 V System (Intermediate Stage)
 
-- **BMS** is mandatory for LiFePO₄ packs: cell balancing, over/under voltage protection, temperature monitoring and overcurrent protection.
-- **Deep-discharge prevention**: configure inverter and MPPT relays to disconnect heavy loads when SOC is low.
-- **Thermal management**: batteries and inverters must be installed in ventilated, weather-protected enclosures.
-- **Monitoring**: log voltage, current, SOC and wind speed to validate performance and detect faults early.
+The first attempt to scale the system used a 24 V architecture.
+This was an improvement over 12 V, but still insufficient for high-power loads.
 
----
+### Problems with 12 V
+- Currents reached **70 A**, requiring extremely thick and expensive cables.
+- Voltage drop became significant.
+- Efficiency suffered.
 
-## Estimated costs (presented and justified)
+### Improvements at 24 V
+A 24 V system reduced current and allowed:
 
-| Item | Notes | Estimated cost |
-|------|-------|----------------|
-| Small wind turbine + MPPT | Low-cost turbine + certified MPPT with dump load | 200–600€ |
-| Flexible 100 W panels (reused) | Reused from previous project | 0–200€ |
-| Victron MPPT 150/60 | Mid-stage MPPT | 300–600€ |
-| EDECOA 3500 W inverter | 24 V pure sine inverter | 300–700€ |
-| EDECOA EG-624B hybrid | 48 V hybrid inverter | 1,000–2,000€ |
-| LiFePO₄ batteries | 4 × 400 Ah (48 V bank) | 3,000–6,000€ |
-| High-power PV (6 × 600 W) | JA Solar N-type bifacial | 2,000–3,500€ |
-| Cabling & protection | Heavy gauge DC cabling, fuses, terminal blocks | 300–800€ |
-| Mounting & installation | Frames, turbine mount, labor | 300–1,000€ |
+- 16 × 100 W flexible panels (4S4P)
+- Victron 150/60 MPPT
+- 24 V 300 Ah LiFePO₄ bank
+- 3500 W EDECOA inverter
 
-**Total rough estimate (final 48 V system):** **≈ 7,000–14,000€** depending on component choices and labor.
+However, flexible panels degrade quickly, and the inverter proved to be **just another Chinese unit**, not as reliable as expected.
 
----
+This stage worked, but it was clear that:
 
-## Evolution timeline (concise)
+- Flexible panels produce **very little power per square meter**
+- Their cost per watt is high
+- They degrade rapidly under sun exposure
+- The inverter was not ideal for long-term reliability
+- The system could not support large AC units
 
-- **2019** — Prototype: 2×100 W panels, PWM controller, car battery and inverter (basic loads).
-- **2021** — MPPT upgrade, LiFePO₄ 100 Ah, additional panels (improved efficiency, medium loads).
-- **2023** — Expansion to 8 panels, Victron MPPT and 2 kW inverter (able to run portable AC during sun).
-- **2025** — Battery degradation revealed limits after sunset; system became battery-limited.
-- **2026** — Control modification: MPPT relay to inverter ON/OFF; decision to redesign to 48 V and larger panels/inverter for multi-kW loads.
+This led to a full redesign.
 
 ---
 
-## Key lessons and design justification
+# 2.2 Stage B — Final 48 V Hybrid System (High Power)
 
-- **Staged approach** reduces risk and cost while providing real operational data.
-- **Controller intelligence** (MPPT + relay + dump load) is essential for turbine safety and battery protection.
-- **Voltage scaling** (12 → 24 → 48 V) is the primary lever to reduce DC currents and cable costs for multi-kW systems.
-- **Battery health** is often the system bottleneck; BMS and correct charge/discharge logic are critical.
-- **Realistic expectations**: low-cost turbines and reused panels rarely meet nameplate ratings; measure actual yield before scaling.
+## Why 48 V?
 
----
+Battery discharge limits forced the upgrade:
 
-## Practical deliverables and next steps
-
-- **Single-line diagram** showing PV strings, turbine, MPPTs, battery bank, inverter and critical loads (placeholder below).
-- **Bill of Materials (BOM)** with exact cable lengths, fuse types and ratings.
-- **Monitoring plan**: voltage/current logging, wind speed, SOC history for at least one seasonal cycle.
-- **Regulatory check**: confirm park rules for turbine installation and electrical work permits.
+- LiFePO₄ batteries typically allow **100 A continuous discharge**
+- Power = Voltage × Current
+- At 12/24/48 V → 1200 / 2400 / 4800 W maximum
+- To run **3000–5000 frigorías AC units**, 48 V was mandatory
 
 ---
 
-### Single-line diagram (placeholder)
+# Component Selection (Final System)
+
+After a detailed market study, the following components were selected:
+
+## **Solar Panels — JA Solar 605 W N-Type Bifacial (JAM72D40-MB)**
+- **90 € per panel** → **540 € total**
+- High efficiency
+- Long lifespan
+- Glass-based → far more durable than flexible panels
+- Excellent cost per watt
+- Bifacial → extra production from reflected light
+
+Flexible panels were discarded because:
+
+- They produce **very little power** for the space they occupy
+- Their cost per watt is high
+- They degrade quickly under sun exposure
+- Glass panels last **much longer** and maintain performance
+
+---
+
+## **Hybrid Inverter — DEYE SUN-6K-SG05LP1-AM2 (6 kW, 48 V)**
+- **860 €**
+- Accepts **up to 500 V** of PV input
+- Accepts **up to 120 A** of battery charge/discharge
+- High reliability
+- True hybrid operation (grid ↔ solar ↔ battery)
+- Excellent monitoring and configurability
+
+This inverter is **far superior** to EDECOA, which turned out to be just another generic Chinese inverter.
+
+---
+
+# Electrical Design (Final Version)
+
+## PV Configuration: **6S1P**
+
+All six 605 W panels are placed **in series**:
+
+- Voltage ≈ **312 V**
+- Current ≈ **15 A**
+
+This is ideal because:
+
+- High voltage → low current
+- Low current → thinner cables
+- Lower cost and lower voltage drop
+- Perfect match for the DEYE inverter
+
+### Cable Sizing
+
+Using 12 AWG (55 A rating):
+
+- Resistivity: 5.2 mΩ/m
+- Distance: 20 m (worst case)
+- Voltage drop:
+  - R = 0.0052 × 20 = 0.104 Ω
+  - Vdrop = 0.104 × 15 = **1.56 V**
+  - Percentage drop ≈ **0.6%** → **excellent**
+
+### String Fuse
+- **15–20 A** fuse recommended
+
+---
+
+# Battery Bank and Protection
+
+- 4 × LiFePO₄ batteries
+- 48 V configuration
+- Battery discharge limit: **100 A**
+- Inverter allows configuring max charge/discharge current
+- Battery cables: **3 AWG** (short run, 20–30 cm)
+- Battery fuse: **150 A MEGA**
+
+---
+
+# Battery Balancing
+
+With 4 batteries in series, balancing is essential.
+
+A detailed study of balancing methods concluded:
+
+### **Chosen solution: HC02 Active Capacitive Balancer (24 €)**
+- Active “charge pump” system
+- Uses capacitors
+- Cheap, robust, reliable
+- Slow but effective
+- Better than passive resistive balancers
+- Simpler and cheaper than inductive DC-DC balancers
+
+This ensures all batteries remain equalized over time.
+
+---
+
+# AC and Grid Cabling
+
+For 6 kW at 230 V:
+
+- Current ≈ **26 A**
+- Distance: 25 m
+- Recommended cable: **3G6 mm²**
+- Supports 40 A
+- Voltage drop ≈ **1.7%**
+- Cost ≈ **150 €**
+
+---
+
+# Final Summary
+
+The final system is:
+
+- **More powerful**
+- **More efficient**
+- **More reliable**
+- **Cheaper per watt**
+- **Easier to maintain**
+- **Safer**
+- **Fully hybrid**
+
+The transition from flexible panels + EDECOA to **glass panels + DEYE** represents a **major leap in quality and performance**.
+
+This system is now capable of powering:
+
+- Refrigeration
+- Lighting
+- Electronics
+- Two AC units
+- And general household loads
+
+Even in a remote location with unstable grid supply.
