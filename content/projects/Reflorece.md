@@ -7,7 +7,6 @@ tags = ["3D Printing", "Design", "Start-up", "Organic Shapes", "PLA Marble"]
 type = "projects"
 +++
 
-# ReFlorece – Organic 3D Printed Planters
 
 ReFlorece began with something simple: a few planters I designed and printed for my own home.
 What I didn’t expect was the reaction. Everyone who saw them — friends, family, visitors — showed genuine interest. The organic shapes, the natural textures and the unusual geometry caught people’s attention immediately.

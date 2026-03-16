@@ -7,7 +7,6 @@ tags = ["Hybrid Energy", "Wind", "Solar", "LiFePO4", "MPPT", "Off-Grid", "System
 type = "projects"
 +++
 
-# Off-Grid Hybrid System – Wind + Solar (Experimental and High-Power)
 
 This project was developed for a house located at the highest point of a natural park, where the grid supply is extremely unstable. Voltage drops, scheduled maintenance cuts and general load limitations make it impossible to rely on the grid for essential appliances.
 

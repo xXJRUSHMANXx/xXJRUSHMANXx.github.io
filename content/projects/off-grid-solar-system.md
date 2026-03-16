@@ -7,7 +7,6 @@ tags = ["Solar Energy", "Off-Grid", "MPPT", "LiFePO4", "DIY", "Energy Systems"]
 type = "projects"
 +++
 
-# Grid-Off Solar System – Low-Cost Apartment Installation
 
 This project is a **low-cost off-grid solar system** installed on the balcony of an apartment, built progressively over several years using affordable components from AliExpress. The system evolved through multiple stages, improving efficiency, safety and power output until reaching a configuration capable of running medium-power appliances such as a portable air conditioner and an electric cooker.
 
