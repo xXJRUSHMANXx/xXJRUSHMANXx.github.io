@@ -232,6 +232,7 @@ For 6 kW at 230 V:
 |----------|------|
 | 6 × JA Solar 605 W panels | **540 €** |
 | DEYE SUN-6K-SG05LP1-AM2 | **860 €** |
+| 4 x LiFePo4 400aH batterys | **2,442 €** |
 | 12 AWG PV cabling (20 m) | 30–50 € |
 | 3 AWG battery cabling | 20–30 € |
 | 3G6 mm² AC cabling (25 m) | **150 €** |
