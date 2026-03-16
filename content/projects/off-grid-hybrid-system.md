@@ -241,7 +241,7 @@ For 6 kW at 230 V:
 | HC02 Active Balancer | **24 €** |
 | DC isolator (600–1000 V) | 20–40 € |
 
-### **Total (Final Hybrid System): ~1,650–1,750 €**
+### **Total (Final Hybrid System): ~4,130–4,200 €**
 
 ---
 
