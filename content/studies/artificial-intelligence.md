@@ -6,9 +6,12 @@ draft = false
 tags = ["AI", "Deep Learning", "Machine Learning", "NLP", "Computer Vision"]
 +++
 
-
 **UPC School – Universitat Politècnica de Catalunya**
 **Final weighted grade: 9.3 / 10**
+**Credits: 15 ECTS (123 teaching hours)**
+**Edition: 7th**
+**Dates: 05/10/2026 – 17/03/2027**
+**Delivery: Live Online (English)**
 
 I completed the postgraduate programme *Artificial Intelligence with Deep Learning* at UPC School, a highly technical and specialised course designed to train professionals in modern deep learning techniques.
 According to the official programme, the course aims to *“prepare students to design deep learning models, process large data volumes, and develop AI‑powered solutions using state‑of‑the‑art frameworks”*.
@@ -32,7 +35,7 @@ The programme is taught entirely in English and focuses on practical, industry�
 
 # Subjects & Grades
 
-Below is the complete list of subjects and your final marks, extracted from your academic report.
+Below is the complete list of subjects and final marks:
 
 | Subject | Final Mark |
 |--------|------------|
@@ -46,34 +49,95 @@ Below is the complete list of subjects and your final marks, extracted from your
 
 ---
 
-# Programme Overview
+# Programme Structure
 
 The postgraduate programme covers the essential pillars of modern AI:
 
-### **Deep Learning**
-- Backpropagation, MLPs, CNNs
-- Loss functions, optimisation, interpretability
+---
+
+## **Deep Learning (4 ECTS – 30h)**
+
+- Introduction to machine learning
+- Backpropagation and optimisation
+- Perceptron, MLPs and Softmax
+- Convolutional Neural Networks (CNNs)
+- Interpretability and training methodology
 - Graph neural networks & recommender systems
 
-### **Natural Language Processing**
-- RNNs, attention, transformers
-- Word embeddings & language models
-- Advanced text processing and adaptation
+---
 
-### **Computer Vision**
-- Transfer learning & self‑supervised learning
+## **Natural Language Processing (3 ECTS – 24h)**
+
+- RNNs, attention and transformers
+- Word embeddings
+- Language models and advanced adaptations
+- Text processing pipelines
+
+---
+
+## **Computer Vision (3 ECTS – 21h)**
+
+- Transfer learning
+- Self‑supervised learning
 - Object detection & segmentation
-- VAEs, GANs & diffusion models
 - Video architectures
+- VAEs, GANs & diffusion models
 
-### **Advanced Applications**
-- Advanced NLP or Advanced CV
-- Speech processing or Reinforcement Learning
+---
 
-### **Final Project**
-- Python for DL, hyperparameters, cloud computing
-- APIs, Docker, training monitoring
-- Group‑based AI project
+## **Advanced Applications (2 ECTS – 21h)**
+
+Students choose one option from each block:
+
+### **Block A (6h)**
+- Advanced NLP
+- Advanced CV (3D reconstruction, anomaly detection, generative models)
+
+### **Block B (9h)**
+- Speech Processing (enhancement, ASR, TTS)
+- Reinforcement Learning (Q‑Learning, DQN, policy gradient)
+
+---
+
+## **Final Project (3 ECTS – 27h)**
+
+- Python for DL, environment setup
+- Hyperparameter optimisation
+- Cloud computing & APIs
+- Docker
+- Monitoring of neural network training
+- Group‑based AI project (4 students)
+
+---
+
+# Learning Methodology
+
+The programme combines:
+
+- **Live sessions (70%)**
+- **Recorded content (30%)**
+- **Practical coding sessions**
+- **Flipped classroom methodology**
+- **Tutorship for the final project**
+
+Students work with real datasets, GPU‑accelerated computation and industry‑standard tools.
+
+---
+
+# Assessment Criteria
+
+- Minimum **80% attendance**
+- Participation in practical sessions
+- Exercises, quizzes and exams
+- Completion and public defence of the final project
+
+---
+
+# Additional Information
+
+- Access to **My_Tech_Space** virtual campus
+- University‑specific Expert Diploma issued by UPC
+- Programme aligned with EU Digital Europe and industry demand
 
 ---
 

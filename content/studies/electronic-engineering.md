@@ -6,15 +6,17 @@ draft = false
 tags = ["Electronics", "Automation", "Control", "Robotics", "Power Electronics"]
 +++
 
-
 **Universitat Politècnica de Catalunya – EEBE**
 **Final grade: 7.011 / 10**
+**Total ECTS: 240**
+**Graduation date: 05/07/2024**
+**Efficiency rate: 0.93**
 
 I completed my Bachelor’s Degree in Industrial Electronics and Automatic Control Engineering at the Barcelona East School of Engineering (EEBE – UPC).
-According to the official programme, the degree provides *“the knowledge required to design, manage and develop industrial electronic systems, automation systems, control architectures and power electronics”*.
-It also includes multidisciplinary training in *analog and digital electronics, power electronics, automatic regulation, industrial automation, robotics, industrial computing and communication systems*.
+The official programme describes the degree as providing *“the knowledge required to design, manage and develop industrial electronic systems, automation systems, control architectures and power electronics”*.
 
-This degree strengthened my ability to design, analyse and implement electronic and control systems used in modern industry.
+Throughout the degree, I received multidisciplinary training in **analog and digital electronics**, **power electronics**, **automatic regulation**, **industrial automation**, **robotics**, **instrumentation**, **industrial computing**, and **communication systems**.
+This academic background strengthened my ability to design, analyse and implement electronic and control systems used in modern industry.
 
 ---
 
@@ -32,16 +34,22 @@ This degree strengthened my ability to design, analyse and implement electronic 
 
 ---
 
-# Academic Performance
+# Academic Performance Overview
 
 All data below is extracted from my official transcript, which states:
-*“Student graduated with final mark 7.011… Total ECTS passed: 240”*.
+*“Student graduated with final mark 7.011… Total ECTS passed: 240.”*
+
+The degree is divided into:
+
+- **Initial Stage:** 60 ECTS
+- **Non‑Initial Stage:** 126 ECTS
+- **Optional Subjects:** 30 ECTS
+- **Final Degree Project:** 24 ECTS
 
 ---
 
-# Subjects & Grades
+# Initial Stage (60 ECTS) – Average: 6.8
 
-## **Initial Stage (60 ECTS) – Average: 6.8**
 | Subject | Credits | Final Mark |
 |--------|---------|------------|
 | Calculus | 6 | 7.70 |
@@ -57,7 +65,8 @@ All data below is extracted from my official transcript, which states:
 
 ---
 
-## **Non‑Initial Stage (126 ECTS) – Average: 6.3**
+# Non‑Initial Stage (126 ECTS) – Average: 6.3
+
 | Subject | Credits | Final Mark |
 |--------|---------|------------|
 | Industrial Control & Automation | 6 | 7.00 |
@@ -79,4 +88,46 @@ All data below is extracted from my official transcript, which states:
 | Power Electronics | 6 | 5.00 |
 | Industrial Computing | 6 | 5.60 |
 | Electronic Instrumentation | 6 | 5.90 |
-| Control
+| Control Engineering II | 6 | 6.00 |
+| Renewable Energy Systems | 6 | 5.00 |
+| Electrical Installations | 6 | 5.60 |
+| Electronic Technology II | 6 | 5.90 |
+| Advanced Automation & Industrial Electronics | 6 | 7.00 |
+| Operations & Production | 6 | 5.00 |
+
+---
+
+# Optional Subjects (30 ECTS)
+
+| Subject | Credits | Final Mark |
+|--------|---------|------------|
+| Additive Manufacturing II | 3 | 9.00 |
+| Hardware Design | 6 | 8.70 |
+| Logic Design | 6 | 7.70 |
+| Numerical Methods | 6 | 8.30 |
+| Industrial Projects | 6 | 6.20 |
+| Additive Manufacturing I | 3 | 9.50 |
+
+---
+
+# Final Degree Project (24 ECTS)
+
+| Subject | Credits | Final Mark |
+|--------|---------|------------|
+| Final Degree Project (TFG) | 24 | **10.00** |
+
+---
+
+# Additional Information
+
+- **Foreign language certification achieved**
+- **Academic record status: Graduate**
+- **Order number: (38, 95)**
+- **Scale according to RD 1044/2003: 1.600**
+
+---
+
+# Summary
+
+This degree provided me with a strong foundation in electronics, automation and control engineering, supported by hands‑on laboratory work, multidisciplinary projects and a top‑graded final thesis.
+It shaped my technical mindset and gave me the tools to design, analyse and implement real industrial systems.

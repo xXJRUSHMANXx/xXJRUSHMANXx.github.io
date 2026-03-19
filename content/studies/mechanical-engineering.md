@@ -6,15 +6,18 @@ draft = false
 tags = ["Engineering", "Mechanics", "Design", "Thermodynamics", "Materials"]
 +++
 
-
 **Universitat Politècnica de Catalunya – EEBE**
 **Final grade: 7.306 / 10**
+**Total ECTS: 240**
+**Graduation date: 05/07/2024**
+**Efficiency rate: 0.91**
+**Order number: (21, 149)**
 
 I completed my Bachelor’s Degree in Mechanical Engineering at the Barcelona East School of Engineering (EEBE – UPC).
-According to the official programme, the degree provides *“solid training in the design, development and use of machinery, mechanical systems, material selection and structural design”* .
-It also includes multidisciplinary knowledge in *fluid mechanics, thermotechnics, electricity, automation, HVAC systems and engineering graphics* .
+The official programme describes the degree as providing *“solid training in the design, development and use of machinery, mechanical systems, material selection and structural design”*.
 
-Throughout the degree, I developed strong analytical and practical skills, combining theoretical foundations with laboratory work, simulation, CAD design and real engineering projects.
+The curriculum combines analytical foundations with laboratory work, simulation, CAD design, materials science, thermodynamics, manufacturing processes and real engineering projects.
+This degree strengthened my ability to design, analyse and implement mechanical systems used in modern industry.
 
 ---
 
@@ -31,17 +34,22 @@ Throughout the degree, I developed strong analytical and practical skills, combi
 
 ---
 
-# Academic Performance
+# Academic Performance Overview
 
-Below is the complete list of subjects from my academic record, including credits and final marks.
-All data is extracted from my official transcript, which states:
-*“Student graduated with final mark 7.306… Total ECTS passed: 240”* .
+All data below is extracted from my official transcript, which states:
+*“Student graduated with final mark 7.306… Total ECTS passed: 240.”*
+
+The degree is divided into:
+
+- **Initial Stage:** 60 ECTS
+- **Non‑Initial Stage:** 126 ECTS
+- **Optional Subjects:** 30 ECTS
+- **Final Degree Project:** 24 ECTS
 
 ---
 
-# Subjects & Grades
+# Initial Stage (60 ECTS) – Average: 6.9
 
-## **Initial Stage (60 ECTS) – Average: 6.9**
 | Subject | Credits | Final Mark |
 |--------|---------|------------|
 | Calculus | 6 | 7.70 |
@@ -57,7 +65,8 @@ All data is extracted from my official transcript, which states:
 
 ---
 
-## **Non‑Initial Stage (126 ECTS) – Average: 6.9**
+# Non‑Initial Stage (126 ECTS) – Average: 6.9
+
 | Subject | Credits | Final Mark |
 |--------|---------|------------|
 | Mechanical Systems | 6 | 6.40 |
@@ -83,7 +92,8 @@ All data is extracted from my official transcript, which states:
 
 ---
 
-## **Optional Subjects (30 ECTS)**
+# Optional Subjects (30 ECTS)
+
 | Subject | Credits | Final Mark |
 |--------|---------|------------|
 | Leadership | 6 | 7.70 |
@@ -95,13 +105,23 @@ All data is extracted from my official transcript, which states:
 
 ---
 
-## **Final Degree Project (TFG) – 24 ECTS**
+# Final Degree Project (TFG) – 24 ECTS
+
 | Project | Credits | Final Mark |
 |---------|---------|------------|
 | Mechanical Engineering Final Thesis | 24 | **10.00 (Excellent)** |
 
 ---
 
+# Additional Information
+
+- **Foreign language certification achieved**
+- **Academic record status: Graduate**
+- **Scale according to RD 1044/2003: 1.725**
+
+---
+
 # Summary
 
-This degree gave me a strong foundation in mechanical engineering, combining analytical thinking, problem‑solving, and hands‑on technical skills. It also prepared me to work in multidisciplinary environments involving mechanics, electronics, automation, materials and industrial processes.
+This degree provided me with a strong foundation in mechanical engineering, combining analytical thinking, problem‑solving and hands‑on technical skills.
+It prepared me to work in multidisciplinary environments involving mechanics, electronics, automation, materials and industrial processes.
