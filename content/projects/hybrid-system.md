@@ -1,5 +1,6 @@
 +++
-title = "Hybrid System: Wind and Solar Energy Generation (Experimental and High-Power)"
+title = "Hybrid HP System: Wind and Solar Energy Generation"
+subtitle = "Experimental and High-Power Systems"
 date = 2026-02-01
 summary = "A two-block hybrid energy system combining an experimental wind+solar unit with a high-power 48V hybrid solar architecture."
 description = "A complete off-grid hybrid installation designed for a remote house with unstable grid supply. Includes an experimental wind+solar block and a fully engineered high-power hybrid solar system with detailed justification, wiring, protection and component selection."
