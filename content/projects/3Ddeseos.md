@@ -24,7 +24,7 @@ Some examples include:
 - Holders and organizers for everyday household items such as cutlery, tools, pens, jewelry, and more.
 - Adapters, clips and brackets designed to fit different items in specific environment such as a car barometer mounted on AC air vents.
 - All types of supports for tubes, wiring and structural components.
--All type of enclosures for housing electronics such as Arduino boards and electronic control boxes.
+- All type of enclosures for housing electronics such as Arduino boards and electronic control boxes.
 
 Each part is designed from scratch in SolidWorks and optimized for 3D printing to ensure strength, usability and a perfect fit.
 
@@ -65,9 +65,9 @@ This allows me to bring open‑source ideas to life and make them accessible to 
 
 3Deseos represents the combination of:
 
-- technical CAD knowledge
-- hands‑on experience in additive manufacturing
-- creativity applied to real problems
-- a passion for helping people through engineering
+- Technical CAD knowledge
+- Hands‑on experience in additive manufacturing
+- Creativity applied to real problems
+- A passion for helping people through engineering
 
 It is a space where ideas become physical objects, and where every challenge is an opportunity to design something new.
