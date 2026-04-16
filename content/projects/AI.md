@@ -8,8 +8,6 @@ type = "projects"
 +++
 
 
-# Artificial Intelligence – Practical Integration in My Daily Life
-
 The world of Artificial Intelligence is opening new doors every day.
 Today, we can obtain an answer to almost any question instantly.
 But… **how accurate is that answer?**
@@ -22,7 +20,7 @@ For this reason, I believe AI should be used with intention, criteria and respon
 
 ---
 
-# Where AI Makes Sense (In My Opinion)
+# Where AI Makes Sense
 
 I use AI in many areas of my life, but always with a clear purpose.
 These are the contexts where I believe AI truly shines:
