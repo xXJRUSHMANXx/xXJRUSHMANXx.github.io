@@ -4,7 +4,9 @@ date = 2025-01-01
 summary = "How I use AI as a technical instructor, engineer, designer and lifelong learner."
 draft = false
 tags = ["AI", "Machine Learning", "Automation", "Productivity", "Education"]
+type = "projects"
 +++
+
 
 # Artificial Intelligence – Practical Integration in My Daily Life
 
