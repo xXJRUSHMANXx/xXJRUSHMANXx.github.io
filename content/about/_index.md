@@ -6,194 +6,105 @@ draft = false
 tags = ["About", "Profile", "BELBIN", "Teamwork", "Teaching"]
 +++
 
+
 I am an engineer driven by curiosity, creativity and a practical love for making things that work. My background spans **mechanical engineering**, **electronics**, **automation**, **additive manufacturing** and **applied artificial intelligence**. I approach problems from multiple angles: conceptual design, hands‑on prototyping, and iterative validation. I enjoy turning abstract requirements into robust, manufacturable solutions and teaching others to do the same.
 
-Beyond technical skills I value **clear communication**, **teamwork**, and **adaptability**. I have worked in multicultural environments, supported international clients, and held customer‑facing roles that strengthened my ability to listen, explain and deliver with empathy. Whether I am designing a mechanical assembly, troubleshooting an electrical installation, guiding students in the workshop, or developing an AI model, my working principle is the same:
-**identify the problem, design a practical solution, validate quickly, and improve continuously.**
-
-Outside engineering, I appreciate simple things: good conversations, discovering new ideas, and staying active. I like to think of myself as someone who is always growing — both professionally and personally.
+Beyond technical skills I value **clear communication**, **teamwork**, and **adaptability**. I have worked in multicultural environments, supported international clients, and held customer‑facing roles that strengthened my ability to listen, explain and deliver with empathy. Whether I am designing a mechanical assembly, troubleshooting an electrical installation, guiding students in the workshop, or developing an AI model, my working principle is the same: **identify the problem, design a practical solution, validate quickly, and improve continuously.**
 
 ---
 
-# Professional Focus and Teaching
+## 1) Introduction to the BELBIN Framework
 
-Since 2025 I have been working as a **Technical Instructor** at EMT Granollers. My teaching blends theory with project‑based learning and hands‑on workshop guidance. I supervise student projects that cover mechanical design, manufacturing processes, industrial systems and product development. In the workshop I work daily with three‑phase industrial machines, power and control systems, and I teach students how to diagnose, repair and document real faults safely and efficiently.
+The **BELBIN Team Roles** framework is a widely recognised organisational tool used in companies, universities and professional development programmes. It is based on decades of research into team behaviour and focuses on **observable contributions** people make in group settings rather than on abstract personality labels. BELBIN identifies nine team roles, each describing a cluster of strengths (contributions) and associated “allowable weaknesses” that typically accompany those strengths.
 
-**Core teaching strengths**
-- Practical diagnostics: three‑phase power, contactors, relays, protection devices.
-- Project management: market analysis, specifications, budgeting and delivery.
-- CAD and manufacturing: modelling, DFM, prototyping and validation.
-- Standards and drawing: ISO norms, tolerancing and correct dimensioning.
+Because BELBIN combines **self‑assessment** with **observer feedback**, it provides a multi‑angle, practical view of how someone behaves in real working contexts. Organisations use BELBIN for team composition, leadership development, role assignment and conflict resolution — especially where complementary skills and clear responsibilities are critical to project success.
 
 ---
 
-# BELBIN Team Roles Assessment
+## 2) BELBIN — My Assessment (summary of the official report)
 
-I recently completed a BELBIN Team Roles assessment supported by feedback from five observers. The report provides a structured view of how I contribute in team environments, combining my self‑perception with external observations.
+Below I present a faithful synthesis of my BELBIN Individual Report (self‑assessment + five observer evaluations).
 
-## Introduction to the BELBIN Framework
+### Role descriptions (concise)
+- **Resource Investigator (IR)** — Extroverted, enthusiastic, good at exploring opportunities and developing contacts. *Allowable weakness:* optimism that fades once initial enthusiasm disappears.
+- **Plant (creative thinker)** — Creative, imaginative, generates ideas and solves difficult problems. *Allowable weakness:* can become absorbed in thought and neglect communication.
+- **Shaper / Driver (IS)** — Dynamic, challenges the team, pushes under pressure. *Allowable weakness:* can provoke or offend.
+- **Teamworker / Cohesioner (CH)** — Cooperative, diplomatic, listens and avoids conflict. *Allowable weakness:* indecision in crucial moments.
+- **Monitor Evaluator (ME)** — Serious, discerning, strategic; judges options accurately. *Allowable weakness:* may lack initiative or inspirational drive.
+- **Implementer (ID)** — Practical, reliable, efficient; turns ideas into action. *Allowable weakness:* can be inflexible or slow to adapt.
+- **Coordinator (CO)** — Mature, confident, identifies talent and delegates. *Allowable weakness:* may be perceived as manipulative or offload personal work.
+- **Specialist (ES)** — Dedicated, independent, provides rare expertise. *Allowable weakness:* contributes narrowly and may overuse technical language.
+- **Completer Finisher (FI)** — Meticulous, conscientious, seeks errors and polishes work. *Allowable weakness:* worries excessively and struggles to delegate.
 
-The BELBIN Team Roles framework is not a personality quiz or a casual online test — it is a **widely recognised organisational tool** used in companies, universities and professional development programs around the world. Developed through decades of research on team behaviour, BELBIN identifies nine distinct roles that people naturally adopt when working in groups. Each role reflects specific strengths, contributions and “allowable weaknesses” that tend to appear together in real working environments.
+### Quantitative summary (selected percentiles from the report)
 
-Because of its evidence‑based structure and its focus on observable behaviour rather than abstract personality traits, BELBIN is frequently used in:
+The report provides percentiles from my self‑assessment (TAP) and from five observers (Obs). Selected values reproduced directly from the report:
 
-- **Recruitment and talent development**
-- **Team formation and optimisation**
-- **Leadership training**
-- **Conflict resolution and communication improvement**
-- **Project management and role assignment**
-
-The assessment combines **self‑perception** with **observer feedback**, providing a multi‑angle view of how a person actually behaves in professional settings. This makes it especially valuable for engineers, instructors and technical professionals, where teamwork, clarity of roles and complementary strengths are essential.
-
-In my case, the BELBIN report offers a structured, external perspective on how I contribute to teams, how others perceive my working style, and which areas I can strengthen to become a more well‑rounded and effective professional.
-
-
-## Key Quantitative Results (Self vs Observers)
-
-| Role (BELBIN) | Self percentile | Observers percentile |
-|---------------|----------------:|---------------------:|
+| Role (BELBIN) | Self percentile (TAP) | Observers percentile (Obs) |
+|---------------|-----------------------:|---------------------------:|
 | Resource Investigator (IR) | 63 | 79 |
 | Plant (creative thinker) | 90 | 53 |
 | Specialist (ES) | 62 | 60 |
 | Monitor Evaluator (ME) | 78 | 39 |
-| Teamworker (CH) | 49 | 39 |
-| Implementer (ID) | 8 | 57 |
+| Teamworker / Cohesioner (CH) | 49 | 39 |
 | Shaper / Driver (IS) | 23 | 57 |
+| Implementer (ID) | 8 | 57 |
 | Completer Finisher (FI) | 16 | 42 |
 | Coordinator (CO) | 21 | 10 |
 
-## Observers’ Qualitative Impressions
+**Interpretation:** my self‑view emphasises creative thinking (Plant) and critical evaluation (Monitor Evaluator), while observers highlight my Resource Investigator and Specialist contributions — energetic initiative and deep technical competence. The combined profile suggests a person who generates ideas, evaluates them critically, and brings specialist knowledge to projects.
 
-Observers consistently described me as:
+### Observers’ qualitative impressions (synthesised)
 
-- **Entrepreneurial and energetic**
-- **Persistent and insistent when pushing for results**
-- **Self‑sufficient and motivated to learn**
-- **Practical, reliable and technically focused**
-- **Good at spotting opportunities and acting quickly**
+Observers selected behaviours that appear most frequently in their feedback. Key descriptors include:
 
-They also noted some “allowed weaknesses” typical of my strongest roles, such as directness or deep focus on specific technical areas.
+- **Entrepreneurial / energetic** — proactive in spotting and exploiting opportunities.
+- **Persistent / insistent** — pushes for results and follows up.
+- **Self‑sufficient / motivated to learn** — strong appetite for technical learning.
+- **Practical / reliable** — converts ideas into workable solutions.
+- **Technically deep** — provides specialist knowledge when needed.
 
----
+Observers also noted “allowed weaknesses” such as being direct or overly focused on technical detail, and a tendency to lose interest after the initial creative phase.
 
-# Strengths Identified and How I Apply Them
+### Practical recommendations from the report
 
-### **Creative Problem Solving (Plant)**
-I excel in early‑stage conceptual work, generating original ideas and exploring unconventional approaches.
-
-### **Analytical Judgement (Monitor Evaluator)**
-I evaluate options objectively, identify risks, and make decisions based on evidence.
-
-### **Opportunity Seeking (Resource Investigator)**
-I actively look for new tools, suppliers, technologies and collaborations.
-
-### **Deep Technical Expertise (Specialist)**
-I enjoy mastering specific domains and producing high‑value technical documentation.
-
-### **Implementation Orientation (Implementer traits observed)**
-I convert ideas into structured processes, machining sequences and quality checks.
+The BELBIN output suggests I perform best in **flexible, exploratory environments** and in **early project phases** where innovation is valued. It recommends pairing my profile with complementary roles — notably a Coordinator to manage alignment and an Implementer/Completer Finisher to ensure execution and finalisation.
 
 ---
 
-# Development Areas and Mitigation Strategies
+## 3) Professional Focus and Teaching — practical implications and a personal note on authority
 
-### **Follow‑Through**
-My motivation peaks during the creative phase.
-**Mitigation:** structured milestones, clear handovers, collaboration with Implementer/Finisher profiles.
+### Professional focus (how I work)
+Since 2025 I have been a **Technical Instructor** at EMT Granollers. My teaching and professional practice combine:
 
-### **Delegation and Coordination**
-I tend to take ownership of technical tasks.
-**Mitigation:** explicit role assignment, documentation templates, mentoring others.
+- **Project‑based learning:** guiding students through full engineering cycles — market study, specifications, CAD, manufacturing and validation.
+- **Workshop practice:** hands‑on diagnostics with three‑phase machines, control systems, and safe repair procedures.
+- **Standards and documentation:** ISO drawing standards, tolerancing, and production‑ready documentation.
+- **Applied AI and tooling:** using AI for documentation, ideation and small‑scale generative experiments; designing tooling and sheet‑metal processes.
 
-### **Communication Style**
-Directness can be perceived as blunt.
-**Mitigation:** contextualised feedback, active listening, collaborative summaries.
+I apply my BELBIN strengths directly: leading concept phases (Plant), performing critical reviews (Monitor Evaluator), sourcing tools and partners (Resource Investigator), and producing specialist technical documentation (Specialist).
 
----
+### Personal reflection: authority and classroom dynamics
+One development area I recognise — and that affects my teaching — is a **relative absence of personal authority** in interpersonal dynamics. I am naturally calm and reserved; I adapt easily to others and often match their tone and level. While this trait helps me connect and de‑escalate, it can unintentionally place me on the same level as students or colleagues, or even below them in perceived authority.
 
-# Practical Impact on My Work and Teaching
+In the classroom, however, the role requires clear leadership: **the instructor is the authority**, whether I feel comfortable with that or not. This tension has influenced my professional growth in two ways:
 
-- I emphasise strong front‑end project definition: market study, specifications, conceptual design.
-- I teach students to document decisions and deliver production‑ready work.
-- I use BELBIN concepts to help teams understand complementary roles and improve collaboration.
+1. **Behavioural adaptation:** I am consciously developing a firmer presence — clearer boundaries, more explicit expectations, and consistent enforcement of safety and process rules.
+2. **Role modelling:** I use my calmness as an asset (measured, composed leadership) while practising assertive communication so students understand responsibilities and standards.
 
----
-
-# Conclusion
-
-The BELBIN assessment is an **official, structured instrument** that provides a multi‑angle view of team behaviour and role preferences. I present the results here as an unmodified record of my self‑assessment and the feedback from five observers. While I do not agree with every interpretation, the report offers a valuable baseline for reflection, team design and career planning.
+This is an active area of development: I combine BELBIN insights (delegate execution, partner with coordinators) with practical strategies (structured classroom rules, scripted feedback, and staged escalation) to balance approachability with necessary authority.
 
 ---
 
-# One‑Page Development Plan
-### Based on BELBIN Team Roles Assessment
+## 4) Conclusion and commitments
 
-## 1. Core Strengths to Leverage
+The BELBIN assessment is an **official, evidence‑based tool** that provides a structured view of team behaviour by combining self‑perception and observer feedback. I present the report’s findings here as an accurate summary of the original document and as a practical baseline for reflection.
 
-### **Creative Problem Solving (Plant)**
-Lead early‑stage concept development, brainstorming and prototyping.
+**Key takeaways:**
+- My profile combines **creativity, analytical judgement, initiative and specialist depth** — strengths that are especially valuable in early‑stage engineering, R&D and teaching.
+- Observers confirm my energy and capacity to spot opportunities; they also highlight the need for stronger follow‑through and coordination.
+- A personal development priority is to strengthen classroom authority while preserving approachability and empathy.
 
-### **Analytical Judgement (Monitor Evaluator)**
-Support design reviews, feasibility studies and risk‑based decision making.
-
-### **Opportunity Seeking (Resource Investigator)**
-Identify new tools, suppliers, technologies and external collaborations.
-
-### **Deep Technical Expertise (Specialist)**
-Own specialised calculations, documentation and knowledge transfer.
+**Commitment:** I will continue to **work on my weaker areas** (follow‑through, delegation, assertive presence) and **leverage my strengths** (idea generation, critical evaluation, specialist knowledge) with the explicit goal of becoming a more balanced, effective and well‑rounded engineering professional and instructor.
 
 ---
-
-## 2. Development Areas & Action Strategies
-
-### **Follow‑Through**
-- Break projects into milestones.
-- Delegate finishing tasks when appropriate.
-- Use checklists and progress tracking.
-
-### **Delegation & Coordination**
-- Assign responsibilities explicitly.
-- Use structured handovers.
-- Encourage team ownership.
-
-### **Communication Style**
-- Frame feedback constructively.
-- Practise active listening.
-- Align decisions collaboratively.
-
----
-
-## 3. Ideal Working Conditions
-
-### **Best Environments**
-- Flexible, dynamic settings.
-- Early‑stage project phases.
-- Innovation‑driven teams.
-
-### **Complementary Profiles**
-- Coordinator
-- Implementer
-- Completer Finisher
-
----
-
-## 4. Career & Growth Recommendations
-
-### **Short‑Term**
-- Lead concept development and prototyping.
-- Document and share specialist knowledge.
-
-### **Medium‑Term**
-- Strengthen coordination and delegation.
-- Develop frameworks for project follow‑through.
-
-### **Long‑Term**
-- Technical Lead in innovation‑driven environments.
-- R&D or Concept Engineering roles.
-- Specialist Instructor or Mentor.
-
----
-
-## 5. Summary Statement
-
-Your BELBIN profile highlights a powerful combination of **creativity**, **analytical judgement**, **initiative**, and **specialist depth**. These strengths make you highly effective in early‑stage engineering work, problem solving and technical leadership. By reinforcing follow‑through, delegation and communication balance, you can expand your impact across full project lifecycles and team environments.
