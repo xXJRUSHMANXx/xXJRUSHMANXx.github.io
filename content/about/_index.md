@@ -1,4 +1,4 @@
-```markdown
+
 +++
 title = "About Me"
 summary = "A more personal look at who I am as an engineer and as a person, integrating a recent BELBIN team‑roles assessment."
@@ -96,4 +96,3 @@ If you’d like, I can:
 - produce a **one‑page development plan** based on these results (skills to strengthen, roles to seek, complementary team profiles),
 - convert this into a **CV‑ready summary** or a downloadable one‑page PDF, or
 - **map these traits to specific projects** (teaching modules, AI work, manufacturing projects) to show concrete examples of how the profile plays out in practice.
-```
