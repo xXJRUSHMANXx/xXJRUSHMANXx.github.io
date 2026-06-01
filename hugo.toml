@@ -92,7 +92,7 @@ theme = 'PaperMod'                                  # Tema actiu
 # CONFIGURACIÓ DE LA PÀGINA DE LLISTA
 # ─────────────────────────────────────────────────────────────
 [params.assets]
-  disableFingerprinting = false                     # Permet cache busting
+  disableFingerprinting = true                     # Permet cache busting
 
 # ─────────────────────────────────────────────────────────────
 # CONFIGURACIÓ DE LA PÀGINA DE CONTACTE (si la crees)
