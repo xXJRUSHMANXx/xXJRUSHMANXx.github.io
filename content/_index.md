@@ -6,12 +6,12 @@ layout = "single"
 
 **Mechanical & Electronic Engineer**
 
-I am an engineer driven by curiosity, creativity and a strong desire to build real, functional solutions.
-My background combines **Mechanical Engineering**, **Electronic Engineering**, **Additive Manufacturing**, and **Industrial Automation**, allowing me to approach problems from both a technical and practical perspective.
+I am a multidisciplinary engineer focused on designing and building functional, real‑world solutions. My background spans Mechanical Engineering, Electronic Engineering, Industrial Automation, Additive Manufacturing and AI‑assisted workflows.
 
-Over the years, I have worked with a wide range of technologies:
-from **3D printing with clay, concrete, FDM and SLA**, to **robotics**, **renewable energy systems**, **CAD design**, and **AI‑assisted workflows**.
-I enjoy designing, prototyping and improving systems that connect the digital and physical world.
+I work across the full development cycle: from CAD design and prototyping to diagnostics, testing and continuous improvement. My experience includes 3D printing (clay, concrete, FDM, SLA), robotics, renewable energy systems, industrial machinery, and digital‑to‑physical integration.
+
+This website showcases my projects, technical work and ongoing professional development.
+
 
 ---
 
@@ -29,7 +29,7 @@ I enjoy designing, prototyping and improving systems that connect the digital an
 
 - **Degree in Mechanical Engineering Electronic**
   Universitat Politècnica de Catalunya (UPC – EEBE)
- **Degree in Industrial Automation Engineering**
+-  **Degree in Industrial Automation Engineering**
   Universitat Politècnica de Catalunya (UPC – EEBE)
 - **Postgraduate in Artificial Intelligence: Machine & Deep Learning**
   Universitat Politècnica de Catalunya (UPC – school)
@@ -71,3 +71,4 @@ If you want to explore my work, you can visit:
 - **Projects** → Real engineering and personal builds
 - **Work** → Professional experience
 - **Studies** → Academic background and certifications
+- **About me** → Personal background 

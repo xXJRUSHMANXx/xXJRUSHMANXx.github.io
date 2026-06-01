@@ -7,7 +7,13 @@ tags = ["About", "Profile", "BELBIN", "Teamwork", "Teaching"]
 +++
 
 
-I am an engineer driven by curiosity, creativity and a practical love for making things that work. My background spans **mechanical engineering**, **electronics**, **automation**, **additive manufacturing** and **applied artificial intelligence**. I approach problems from multiple angles: conceptual design, hands‑on prototyping, and iterative validation. I enjoy turning abstract requirements into robust, manufacturable solutions and teaching others to do the same.
+I am someone who learns by doing, observing and improving. Engineering is not only my profession — it is the way I understand the world. I enjoy analysing how things work, why they fail, and how they can be redesigned to become more efficient, more reliable or simply more elegant.
+
+What defines me most is not a specific discipline, but a mindset: **curiosity, precision, and the desire to build things that genuinely work**. I like solving problems that require both creativity and structure, and I feel comfortable moving between conceptual thinking and hands‑on execution.
+
+On a personal level, I value calmness, clarity and respect. I am naturally quiet and adaptable, which helps me connect with people from different backgrounds. At the same time, this trait has pushed me to grow professionally — especially in teaching, where authority and leadership are essential. Being in front of a class has forced me to develop a stronger presence, clearer boundaries and a more assertive communication style. It is a challenge I embrace because it is shaping me into a more complete professional.
+
+Outside engineering, I enjoy simple things: meaningful conversations, discovering new ideas, and staying active. I see personal growth as a continuous process, and I try to approach every experience — technical or human — as an opportunity to learn.
 
 Beyond technical skills I value **clear communication**, **teamwork**, and **adaptability**. I have worked in multicultural environments, supported international clients, and held customer‑facing roles that strengthened my ability to listen, explain and deliver with empathy. Whether I am designing a mechanical assembly, troubleshooting an electrical installation, guiding students in the workshop, or developing an AI model, my working principle is the same: **identify the problem, design a practical solution, validate quickly, and improve continuously.**
 
