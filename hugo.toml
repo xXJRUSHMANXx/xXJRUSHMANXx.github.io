@@ -12,6 +12,7 @@ theme = 'PaperMod'                                  # Tema actiu
   env = "production"                                # Entorn de producció
   defaultTheme = "light"                             # Tema fosc/clar automàtic
   disableThemeToggle = false                        # Permet canviar tema
+  enableInlineShortcodes = true
   ShowShareButtons = false                          # Botons de compartir
   ShowReadingTime = false                           # Temps estimat de lectura
   ShowFooterSocial = true
